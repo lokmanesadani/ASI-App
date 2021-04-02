@@ -1,0 +1,32 @@
+[
+    { "id" :  "0" , 
+    "name" : "lokmane",
+    "Surname" : "Sadani",
+    "Groupe" : 2,
+    "Abcences" : {"BDA" : 2 , "ASI" : 1 , "ANAD" : 2}
+    },
+    { "id" :  "2" , 
+    "name" : "lokmane",
+    "Surname" : "Sadani",
+    "Groupe" : 2,
+    "Abcences" : {"BDA" : 2 , "ASI" : 1 , "ANAD" : 2}
+    },
+    { "id" :  "3" , 
+    "name" : "lokmane",
+    "Surname" : "Sadani",
+    "Groupe" : 2,
+    "Abcences" : {"BDA" : 2 , "ASI" : 1 , "ANAD" : 2}
+    },
+    { "id" :  "4" , 
+    "name" : "lokmane",
+    "Surname" : "Sadani",
+    "Groupe" : 2,
+    "Abcences" : {"BDA" : 2 , "ASI" : 1 , "ANAD" : 2}
+    },
+    { "id" :  "5" , 
+        "name" : "lokmane",
+        "Surname" : "Sadani",
+        "Groupe" : 2,
+        "Abcences" : {"BDA" : 2 , "ASI" : 1 , "ANAD" : 2}
+      }
+]
